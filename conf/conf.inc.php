@@ -3,7 +3,7 @@
     define('HOST', 'localhost');  
     define('DBNAME', 'revisaorpg');    
     define('USER', 'root');
-    define('PASSWORD', 'Sobaoeim123#');
+    define('PASSWORD', '');
 
     define('DRIVER', 'mysql'); 
     define('CHARSET', 'utf8');
